@@ -1,0 +1,7 @@
+[submodule "external/Autodoree"]
+	path = external/Autodoree
+	url = https://github.com/lambdoree/Autodoree.git
+	branch = codex/split-flowdoree-submodules
+[submodule "external/flowdoree_extend_factory"]
+	path = external/flowdoree_extend_factory
+	url = https://github.com/lambdoree/flowdoree_extend_factory.git
